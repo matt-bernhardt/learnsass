@@ -1,0 +1,1 @@
+This is a quick project so that I can figure out how to integrate Grunt and SASS together for a coworker.
